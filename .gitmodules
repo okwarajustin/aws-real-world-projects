@@ -1,0 +1,3 @@
+[submodule "aws-real-world-projects"]
+	path = aws-real-world-projects
+	url = https://github.com/okwarajustin/aws-real-world-projects.git
